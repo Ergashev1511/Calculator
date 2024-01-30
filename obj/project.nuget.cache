@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3RxJqyq2rb7UN+lrIfEc7mVAWD5785od15DszhXz+wwktnoPV9LtcEB3yaxEKRLl0qUPsKUE80uSTYhwbDSHdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiger\\RiderProjects\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiger\\.nuget\\packages\\materialdesigncolors\\3.0.0-ci508\\materialdesigncolors.3.0.0-ci508.nupkg.sha512",
+    "C:\\Users\\tiger\\.nuget\\packages\\materialdesignthemes\\5.0.0-ci508\\materialdesignthemes.5.0.0-ci508.nupkg.sha512",
+    "C:\\Users\\tiger\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\tiger\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\tiger\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\tiger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\tiger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
